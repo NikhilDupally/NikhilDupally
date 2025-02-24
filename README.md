@@ -1,6 +1,4 @@
-<p>
-  <img src = "https://capsule-render.vercel.app/api?type=waving&height=300&color=auto&text=Nikhil%20Dupally&textBg=false&desc=Software%20Developer&descAlign=51&descAlignY=64&fontSize=90&fontAlignY=42&animation=fadeIn)"/>
-</p>
+
 
 
 <div align="center">
@@ -16,6 +14,8 @@
 - 💬 Ask me about **Java, Python, Go, Android, I'll try my best to help.**
 
 - 📫 How to reach me **nikhildupally@gmail.com**
+
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11692985)]([https://stackoverflow.com/users/11692985/omid-nikrah](https://stackoverflow.com/users/11692985/nikhil-dupally))
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
