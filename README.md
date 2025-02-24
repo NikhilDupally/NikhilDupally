@@ -19,6 +19,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What Happens When You Click on an App in Android: A Deep Dive](https://medium.com/@nikhil.munna001/what-happens-when-you-click-on-an-app-in-android-a-deep-dive-0d612bf278c6?source=rss-68812b6a278a------2)
+- [JSON vs Protocol Buffers vs FlatBuffers: A Deep Dive](https://medium.com/@nikhil.munna001/json-vs-protocol-buffers-vs-flatbuffers-a-deep-dive-4b801d995e43?source=rss-68812b6a278a------2)
+- [Leveraging Filter Correlations for Deep Model Compression](https://medium.com/@nikhil.munna001/leveraging-filter-correlations-for-deep-model-compression-8bd82dc95354?source=rss-68812b6a278a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
