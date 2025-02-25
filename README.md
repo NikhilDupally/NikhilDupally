@@ -13,7 +13,7 @@
 
 
 - 🎓 Graduate Student @ San Jose State University.
-- 👨‍💻 Former Software Engineer [PhonePe][www.phonepe.com] [Cyware][https://www.cyware.com/]
+- 👨‍💻 Former Software Engineer [PhonePe](www.phonepe.com), [Cyware](https://www.cyware.com/)
 - 📝 Technical Blogger - [Medium](https://medium.com/@nikhil.munna001)
 - 💡 Research & Development – Actively experimenting with transformers, generative AI, and NLP advancements.
 - 💬 Ask Me About – LLM fine-tuning, AI ethics, system design, and backend engineering.
@@ -22,10 +22,13 @@
 - 📫 How to reach me **nikhildupally@gmail.com**
 
 
-<div align="center">
-[![Nikhil StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11692985&layout=compact&theme=dark)]([https://stackoverflow.com/users/11692985/nikhil-dupally](https://stackoverflow.com/users/11692985/nikhil-dupally))
-</div>
-### Blogs posts
+### Stack Overflow
+
+![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=11692985)
+
+
+
+### :books: Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [What Happens When You Click on an App in Android: A Deep Dive](https://medium.com/@nikhil.munna001/what-happens-when-you-click-on-an-app-in-android-a-deep-dive-0d612bf278c6?source=rss-68812b6a278a------2)
 - [JSON vs Protocol Buffers vs FlatBuffers: A Deep Dive](https://medium.com/@nikhil.munna001/json-vs-protocol-buffers-vs-flatbuffers-a-deep-dive-4b801d995e43?source=rss-68812b6a278a------2)
