@@ -9,14 +9,22 @@
   
 </div>
 
-- 📝 I regularly write articles on [https://medium.com/@nikhil.munna001](https://medium.com/@nikhil.munna001)
 
-- 💬 Ask me about **Java, Python, Go, Android, I'll try my best to help.**
 
+
+- 🎓 Graduate Student @ San Jose State University.
+- 👨‍💻 Former Software Engineer [PhonePe][www.phonepe.com] [Cyware][https://www.cyware.com/]
+- 📝 Technical Blogger - [Medium](https://medium.com/@nikhil.munna001)
+- 💡 Research & Development – Actively experimenting with transformers, generative AI, and NLP advancements.
+- 💬 Ask Me About – LLM fine-tuning, AI ethics, system design, and backend engineering.
+- 🌍 Beyond Tech – Love solving coding challenges, mentoring students, and exploring AI-driven creativity.
+- 🚀 Let’s Connect! – Open to collaborations, research discussions, and innovative AI projects!
 - 📫 How to reach me **nikhildupally@gmail.com**
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11692985)]([https://stackoverflow.com/users/11692985/omid-nikrah](https://stackoverflow.com/users/11692985/nikhil-dupally))
 
+<div align="center">
+[![Nikhil StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11692985&layout=compact&theme=dark)]([https://stackoverflow.com/users/11692985/nikhil-dupally](https://stackoverflow.com/users/11692985/nikhil-dupally))
+</div>
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [What Happens When You Click on an App in Android: A Deep Dive](https://medium.com/@nikhil.munna001/what-happens-when-you-click-on-an-app-in-android-a-deep-dive-0d612bf278c6?source=rss-68812b6a278a------2)
@@ -26,7 +34,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nikhil-dupally" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-dupally" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dupally-nikhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-dupally" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11692985/nikhil-dupally" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nikhildupally" height="30" width="40" /></a>
 <a href="https://instagram.com/nikhildupally" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhildupally" height="30" width="40" /></a>
 <a href="https://medium.com/@nikhil.munna001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nikhil.munna001" height="30" width="40" /></a>
@@ -48,7 +56,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhildupally&show_icons=true&locale=en&theme=transparent" alt="nikhildupally" /></p>
 </details>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhildupally&label=Profile%20views&color=brightgreen&style=flat" alt="nikhildupally" /> </p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NikhilDupally/NikhilDupally/output/github-contribution-grid-snake-dark.svg">
@@ -56,9 +64,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NikhilDupally/NikhilDupally/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Snake animation](https://github.com/NikhilDupally/NikhilDupally/blob/output/github-contribution-grid-snake.svg)
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
+> <a href="https://drive.google.com/drive/u/0/folders/1O6_qvaoAmtwHGKXmsL_EnOwNxzmkr8tU" download>Download my resume</a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhildupally&label=Profile%20views&color=brightgreen&style=flat" alt="nikhildupally" /> </p>
