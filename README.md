@@ -56,6 +56,8 @@
   <img alt="github contribution grid snake animation" src=""https://raw.githubusercontent.com/nikhildupally/nikhildupally/output/snake.svg"">
 </picture>
 
+![Snake animation](https://github.com/NikhilDupally/NikhilDupally/blob/output/github-contribution-grid-snake.svg)
+
 ### Employer?
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
