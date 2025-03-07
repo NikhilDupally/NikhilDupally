@@ -70,6 +70,6 @@
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/u/0/folders/1O6_qvaoAmtwHGKXmsL_EnOwNxzmkr8tU" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1VvQ0I-4kHIJLn-9zUp-N9oOEWkS_y6ev/view?usp=sharing" download>Download my resume</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhildupally&label=Profile%20views&color=brightgreen&style=flat" alt="nikhildupally" /> </p>
